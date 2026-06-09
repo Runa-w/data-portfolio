@@ -4,8 +4,8 @@ Analytics engineer and AI/data integration specialist with a background in e-com
 
 ## Tech Stack
 **Languages:** Python, SQL(PostgreSQL)
-**Tools:** dbt Core, PowerBI, Git, DBeaver
-**In Progress:** LLM API integration, dbt advanced modeling
+**Tools:** dbt Core 1.8, PowerBI, Git, DBeaver
+**In Progress:** LLM API integration
 
 ## Projects
 *Projects will be added here as they are completed.*
@@ -14,4 +14,4 @@ Analytics engineer and AI/data integration specialist with a background in e-com
 Operational background in e-commerce quality control and property management - domain experience in customer behavior data, revenue metrics, and process automation.
 
 ## Contact
-[GitHub](https://github.com/runa-w)
+[GitHub](https://github.com/runa-w)dbt --version
