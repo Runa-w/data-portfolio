@@ -4,8 +4,8 @@ Analytics engineer and AI/data integration specialist with a background in e-com
 
 ## Tech Stack
 **Languages:** Python, SQL(PostgreSQL)
-**Tools:** dbt Core 1.8, PowerBI, Git, DBeaver
-**In Progress:** LLM API integration
+**Tools:** dbt Core 1.8, Git, DBeaver
+**In Progress:** LLM API integration, PowerBI
 
 ## Projects
 *Projects will be added here as they are completed.*
